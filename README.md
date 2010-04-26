@@ -20,6 +20,10 @@ This class provides a simple info box that will help you monitor your code perfo
 
 * **LEFT CLICK** on the top-half/bottom-half part of the panel to increase/decrease the movie FPS limit.
 
+### Download ###
+
+[Stats.as](http://github.com/mrdoob/stats.as/raw/master/src/Stats.as)
+
 ### Change Log ###
 
 2009 10 22 - v**2.2**
