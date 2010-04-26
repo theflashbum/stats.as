@@ -46,6 +46,7 @@ This class provides a simple info box that will help you monitor your code perfo
 
 
 2009 02 07 - v**1.5**
+
 * onRemovedFromStage() (thx huihuicn.xu)
 
 
