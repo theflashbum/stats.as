@@ -22,7 +22,7 @@ This class provides a simple info box that will help you monitor your code perfo
 
 ### Download ###
 
-[Stats.as](http://github.com/mrdoob/stats.as/raw/master/src/Stats.as)
+[Stats.as](http://github.com/mrdoob/stats.as/raw/master/src/net/hires/debug/Stats.as)
 
 ### Change Log ###
 
